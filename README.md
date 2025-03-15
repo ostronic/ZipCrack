@@ -32,5 +32,6 @@
   
     python zipcrackVx.py -h    
   
+      &&
     
     cat zipcrackVx.py | grep '#:'
