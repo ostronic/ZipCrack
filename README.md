@@ -24,12 +24,13 @@
 
 #:              -t - Specify number of threads
 
+#:              -h - Specify the help argument
+
 #:  Author:     ostronics
 
 # USAGE
   
-  python zipcrackVx.py -h(--help)    
+    python zipcrackVx.py -h    
   
-    or
     
-  cat zipcrackVx.py | grep '#:'
+    cat zipcrackVx.py | grep '#:'
